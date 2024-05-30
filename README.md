@@ -5,7 +5,7 @@ This website was created as part of a college assignment in web development, wit
 
 ## Features
 - Sustainability quiz with tree planting reward
-- Contact form for volunteering and donations
+- Contact form for volunteering and donations. validated with JavaScript to ensure mandatory fields are filled before submission
 - Project showcase on recycling, renewable energy, and other sustainability initiatives (six projects in total)
 
 ## Technologies Used
