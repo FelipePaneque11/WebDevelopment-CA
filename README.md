@@ -1,7 +1,7 @@
 # Sustainable World
 
 ## Overview
-This website was created as part of a college assignment in web development, with a focus on sustainability. Developed with the help of [stefanyrjunges](https://github.com/stefanyrjunges) and [Batiuk89](https://github.com/Batiuk89), the website includes a quiz (created by me) where hypothetically, getting all questions right results in a tree being planted in the Amazon forest. It also features a contact form for volunteering or donations, and a section showcasing various sustainability projects.
+This website was created as part of a college assignment in web development, with a focus on sustainability. Developed with the help of [stefanyrjunges](https://github.com/stefanyrjunges) and [Batiuk89](https://github.com/Batiuk89), the website includes a quiz where hypothetically, getting all questions right results in a tree being planted in the Amazon forest. It also features a contact form for volunteering or donations, and a section showcasing various sustainability projects.
 
 ## Features
 - Sustainability quiz with tree planting reward
